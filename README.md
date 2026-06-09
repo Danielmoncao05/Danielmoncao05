@@ -116,4 +116,7 @@ alt="Github stats"
 height="200"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmoncao05&theme=tokyonight&layout=custom_title=Tecnologias&langs_count=9"
 />
+    <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danielmoncao06&theme=tokyonight" alt="Profile Details"
+        />
 </p>
