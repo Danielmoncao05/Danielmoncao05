@@ -103,20 +103,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
 
 ### 📊 Estatísticas
 
-<p>
 <img
-align="left"
-alt="Github stats"
-height="200"
-src="https://github-readme-stats.vercel.app/api?username=Danielmoncao05&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danielmoncao05&theme=tokyonight&locale=pt-br" alt="Profile Details"
 />
+<br></br>
 <img
-align="left"
-alt="Github stats"
-height="200"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmoncao05&theme=tokyonight&layout=custom_title=Tecnologias&langs_count=9"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Danielmoncao05&theme=tokyonight&hide_border=true&locale=pt-br" alt="Streak"
 />
-    <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danielmoncao06&theme=tokyonight" alt="Profile Details"
-        />
-</p>
